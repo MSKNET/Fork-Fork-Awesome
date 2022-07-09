@@ -7815,7 +7815,7 @@ icons:
     categories:
       - Brand Icons
 
-    - name:       Open Source Initiative
+  - name:     Open Source Initiative
     id:         osi
     unicode:    f363
     created:    1.2
@@ -7913,6 +7913,25 @@ icons:
     categories:
       - Brand Icons
 
+  - name:       network-wired
+    id:         network-wired
+    unicode:    f6ff
+    created:    1.3
 
+  - name:       line
+    id:         line
+    unicode:    f3c0
+    created:    1.3
+    url:        line.me
+    categories:
+      - Brand Icons
 
+  - name:       broadcast-tower
+    id:         broadcast-tower
+    unicode:    f519
+    created:    1.3
 
+  - name:       laptop-code
+    id:         laptop-code
+    unicode:    f5fc
+    created:    1.3
