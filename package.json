@@ -1,7 +1,7 @@
 {
-  "name": "fork-awesome",
+  "name": "fork-fork-awesome",
   "description": "A fork of the iconic font and CSS framework",
-  "version": "1.2.0",
+  "version": "1.4.0",
   "style": "css/fork-awesome.css",
   "keywords": [
     "font",
@@ -13,12 +13,12 @@
   ],
   "homepage": "https://forkawesome.github.io/Fork-Awesome",
   "bugs": {
-    "url": "http://github.com/ForkAwesome/Fork-Awesome/issues"
+    "url": "https://github.com/MSKNET/Fork-Fork-Awesome/issues"
   },
   "author": "Fork Awesome Community",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ForkAwesome/Fork-Awesome.git"
+    "url": "https://github.com/MSKNET/Fork-Fork-Awesome.git"
   },
   "license": "(OFL-1.1 AND MIT)",
   "dependencies": {},

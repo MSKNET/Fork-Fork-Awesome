@@ -5,7 +5,7 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170924 at Sat Jul  9 04:43:50 2022
+Created by FontForge 20170924 at Sat Jul  9 05:41:16 2022
  By node
 The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/OFL). Fork Awesome is a fork based of off Font Awesome 4.7.0 by Dave Gandy. More info on licenses at https://forkawesome.github.io
 </metadata>
@@ -22,7 +22,7 @@ The Fork Awesome font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/
     bbox="-0.767688 -410 13972 1538"
     underline-thickness="89.6"
     underline-position="-179.2"
-    unicode-range="U+0020-F4DB"
+    unicode-range="U+0020-F4DC"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
@@ -648,7 +648,7 @@ c106 0 192 -86 192 -192s-86 -192 -192 -192c-84 0 -154 53 -181 128h-107c-70 0 -11
 d="M1376 640l138 -135c19 -18 26 -45 20 -70c-7 -25 -27 -45 -52 -51l-188 -48l53 -186c7 -25 0 -52 -19 -70c-18 -19 -45 -26 -70 -19l-186 53l-48 -188c-6 -25 -26 -45 -51 -52c-6 -1 -13 -2 -19 -2c-19 0 -38 8 -51 22l-135 138l-135 -138c-18 -19 -45 -26 -70 -20
 c-26 7 -45 27 -51 52l-48 188l-186 -53c-25 -7 -52 0 -70 19c-19 18 -26 45 -19 70l53 186l-188 48c-25 6 -45 26 -52 51c-6 25 1 52 20 70l138 135l-138 135c-19 18 -26 45 -20 70c7 25 27 45 52 51l188 48l-53 186c-7 25 0 52 19 70c18 19 45 26 70 19l186 -53l48 188
 c6 25 26 45 51 51c25 7 52 0 70 -19l135 -139l135 139c18 19 44 26 70 19c25 -6 45 -26 51 -51l48 -188l186 53c25 7 52 0 70 -19c19 -18 26 -45 19 -70l-53 -186l188 -48c25 -6 45 -26 52 -51c6 -25 -1 -52 -20 -70z" />
-    <glyph glyph-name="500px" unicode="&#xf26e;" horiz-adv-x="1394" 
+    <glyph glyph-name="500px" unicode="&#xf4dc;" horiz-adv-x="1394" 
 d="M1387 -11l-6 -6c-75 -75 -162 -134 -259 -175c-101 -42 -207 -64 -317 -64s-217 22 -317 64c-97 41 -185 100 -259 175c-75 74 -134 161 -175 258c-25 61 -45 124 -54 189c-4 28 35 34 48 36c31 5 52 3 56 -20c1 -1 1 -2 1 -4c4 -20 14 -80 46 -159
 c33 -82 84 -158 152 -226c65 -65 141 -116 226 -152c87 -37 180 -56 276 -56c95 0 188 19 276 56c84 36 160 87 225 152l6 6c7 7 15 9 25 6c9 -2 20 -10 33 -22c32 -33 25 -49 17 -58zM915 604l-66 -66l63 -63c7 -7 20 -22 -7 -49c-11 -11 -22 -17 -32 -17
 c-7 0 -13 3 -19 10l-62 61l-66 -66c-2 -2 -7 -5 -15 -5c-9 0 -20 5 -31 16l-2 2c-7 6 -18 17 -18 29c0 6 3 11 8 17l66 65l-66 66c-11 11 -6 25 14 45c12 12 22 18 31 18c5 0 9 -2 13 -5l65 -66l65 65c11 11 29 6 48 -13c12 -12 25 -29 11 -44zM1386 547

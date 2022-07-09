@@ -19,17 +19,17 @@ icon_destination: icon         # Relative to destination
 forkawesome:
   name:           Fork Awesome
   tagline:        A fork of the iconic font and CSS toolkit
-  version:        1.2.0
-  minor_version:  1.2
+  version:        1.4.0
+  minor_version:  1.4
   major_version:  1
   doc_blob:       v1.1.7
   url:            https://forkaweso.me/Fork-Awesome/
   css_prefix:     fa
   font_family:    ForkAwesome
   github:
-    url:          https://github.com/ForkAwesome/Fork-Awesome
-    project:      Fork-Awesome
-    org:          ForkAwesome
+    url:          https://github.com/MSKNET/Fork-Fork-Awesome
+    project:      Fork-Fork-Awesome
+    org:          MSKNET
   license:
     font:
       version:      SIL OFL 1.1
